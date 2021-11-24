@@ -10,7 +10,7 @@ const Header = props => {
         <header className="header__container">
             <div className="header__logo header__logo--state">
                 <img src={logoAcessaBR} alt="Logo AcessaBR" />
-                <span className="header__logo__city">/ Eunápolis - BA</span>
+                <span className="header__logo__city">/ {props.city} - {props.state}</span>
             </div>
             <div className="header__logo--ebac">
                 <span>Apoio:</span>
