@@ -5,7 +5,7 @@ import './styles.scss';
 
 function Button({ children, onClick, width }) {
     return (
-        <button className="button" onClick={onClick} style={{ width }}>
+        <button className="buttonB" onClick={onClick} style={{ width }}>
             {children}
         </button>
     )
