@@ -1,33 +1,48 @@
-import React, { useContext, useEffect, useState } from 'react';
+import React, { useContext, useEffect } from 'react';
+import { useParams } from 'react-router';
 
-import './styles.scss';
+import { FilterContext } from '../../contexts/FilterContext';
+import { LocationContext } from '../../contexts/LocationContext';
+import Pills from '../../components/Pills';
 
 import imageDestack from '../../images/Imagem-destaque.png';
-import Pills from '../../components/Pills';
-import { useParams } from 'react-router';
-import { LocationContext } from '../../contexts/LocationContext';
+import './styles.scss';
 
 const PLACES = [
     'Praça',
     'Parque',
     'Igreja',
-    'Hotel',
     'Restaurante',
     'Farmácia',
     'Loja',
     'Mercado',
+    'Lazer',
+    'Outros',
+    'Todos',
 ]
 
 const Home = () => {
     const { city, state } = useParams();
-    const [selectedPill, setSelectedPill] = useState('');
 
     const { setCity, setState } = useContext(LocationContext);
+    const { filteredPlace, setFilteredPlace } = useContext(FilterContext);
+
+    const handlefilteredPlace = (item) => {
+        if (item !== filteredPlace) {
+            setFilteredPlace(item);
+            return;
+        }
+
+        if (item === filteredPlace) {
+            setFilteredPlace('');
+        }
+        console.log(item);
+    }
 
     useEffect(() => {
         setCity(city);
         setState(state);
-    }, [city, state]);
+    }, [city, setCity, setState, state]);
 
     return (
         <main id="main-content" className="home__container">
@@ -47,8 +62,9 @@ const Home = () => {
                         PLACES.map((item) => (
                             <Pills
                                 local={item}
-                                selected={selectedPill === item}
-                                onClick={() => setSelectedPill(item)}
+                                selected={filteredPlace === item}
+                                key={item}
+                                onClick={() => handlefilteredPlace(item)}
                             />
                         ))
                     }
