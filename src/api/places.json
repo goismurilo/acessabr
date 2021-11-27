@@ -1,0 +1,769 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "name": "Igreja Matriz",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Praça da Matriz",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Praça da Bandeira",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Atacadão Carrefour",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Mineirão Atacado",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Praça do Pequi",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Atacadão Rondelli",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "SAC",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hot Chopeiria",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Estádio Araújão",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "AABB",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Casa Trancoso",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Pizzaria America",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Caixa Econômica",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Cambuí Supermercados",
+            "description": "",
+            "location": {
+                "lat": "01234",
+                "lng": "d"
+            },
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": true
+                },
+                {
+                    "item": 2,
+                    "status": true
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": true
+                }
+            ]
+        }
+    ]
+}
