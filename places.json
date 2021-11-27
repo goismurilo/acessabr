@@ -1,19 +1,799 @@
 {
-  "posts": [
+  "places": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "Igreja Matriz",
+      "image": "",
+      "category": "Igreja",
+      "description": "goiuoiuoiuou",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Praça da Matriz",
+      "image": "Praça",
+      "category": "",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Praça da Bandeira",
+      "image": "",
+      "category": "Praça",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Atacadão Carrefour",
+      "image": "",
+      "category": "Mercado",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mineirão Atacado",
+      "image": "",
+      "category": "Mercado",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Praça do Pequi",
+      "image": "",
+      "category": "Praça",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Atacadão Rondelli",
+      "image": "",
+      "category": "Mercado",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "SAC",
+      "image": "",
+      "category": "Outros",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hot Chopeiria",
+      "image": "",
+      "category": "Lazer",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Estádio Araújão",
+      "image": "",
+      "category": "Outros",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "AABB",
+      "image": "",
+      "category": "Lazer",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Casa Trancoso",
+      "image": "",
+      "category": "Lazer",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Pizzaria America",
+      "image": "",
+      "category": "",
+      "description": "Restaurante",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Caixa Econômica",
+      "image": "",
+      "category": "Outros",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cambuí Supermercados",
+      "image": "",
+      "category": "Mercado",
+      "description": "",
+      "location": {
+        "lat": "01234",
+        "lng": "d"
+      },
+      "facilities": [
+        {
+          "item": 1,
+          "status": true
+        },
+        {
+          "item": 2,
+          "status": true
+        },
+        {
+          "item": 3,
+          "status": true
+        },
+        {
+          "item": 4,
+          "status": true
+        },
+        {
+          "item": 5,
+          "status": true
+        },
+        {
+          "item": 6,
+          "status": true
+        },
+        {
+          "item": 7,
+          "status": true
+        },
+        {
+          "item": 8,
+          "status": true
+        },
+        {
+          "item": 9,
+          "status": true
+        },
+        {
+          "item": 10,
+          "status": true
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

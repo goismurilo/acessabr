@@ -3,7 +3,9 @@
         {
             "id": 1,
             "name": "Igreja Matriz",
-            "description": "",
+            "image": "",
+            "category": "Igreja",
+            "description": "goiuoiuoiuou",
             "location": {
                 "lat": "01234",
                 "lng": "d"
@@ -54,6 +56,8 @@
         {
             "id": 2,
             "name": "Praça da Matriz",
+            "image": "Praça",
+            "category": "",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -105,6 +109,8 @@
         {
             "id": 3,
             "name": "Praça da Bandeira",
+            "image": "",
+            "category": "Praça",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -156,6 +162,8 @@
         {
             "id": 4,
             "name": "Atacadão Carrefour",
+            "image": "",
+            "category": "Mercado",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -207,6 +215,8 @@
         {
             "id": 5,
             "name": "Mineirão Atacado",
+            "image": "",
+            "category": "Mercado",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -258,6 +268,8 @@
         {
             "id": 6,
             "name": "Praça do Pequi",
+            "image": "",
+            "category": "Praça",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -309,6 +321,8 @@
         {
             "id": 7,
             "name": "Atacadão Rondelli",
+            "image": "",
+            "category": "Mercado",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -360,6 +374,8 @@
         {
             "id": 8,
             "name": "SAC",
+            "image": "",
+            "category": "Outros",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -411,6 +427,8 @@
         {
             "id": 9,
             "name": "Hot Chopeiria",
+            "image": "",
+            "category": "Lazer",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -462,6 +480,8 @@
         {
             "id": 10,
             "name": "Estádio Araújão",
+            "image": "",
+            "category": "Outros",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -513,6 +533,8 @@
         {
             "id": 11,
             "name": "AABB",
+            "image": "",
+            "category": "Lazer",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -564,6 +586,8 @@
         {
             "id": 12,
             "name": "Casa Trancoso",
+            "image": "",
+            "category": "Lazer",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -615,7 +639,9 @@
         {
             "id": 13,
             "name": "Pizzaria America",
-            "description": "",
+            "image": "",
+            "category": "",
+            "description": "Restaurante",
             "location": {
                 "lat": "01234",
                 "lng": "d"
@@ -666,6 +692,8 @@
         {
             "id": 14,
             "name": "Caixa Econômica",
+            "image": "",
+            "category": "Outros",
             "description": "",
             "location": {
                 "lat": "01234",
@@ -717,6 +745,8 @@
         {
             "id": 15,
             "name": "Cambuí Supermercados",
+            "image": "",
+            "category": "Mercado",
             "description": "",
             "location": {
                 "lat": "01234",
