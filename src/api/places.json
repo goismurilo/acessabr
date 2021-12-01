@@ -3,21 +3,18 @@
         {
             "id": 1,
             "name": "Igreja Matriz",
-            "image": "",
+            "image": "igreja-matriz.jpg",
             "category": "Igreja",
-            "description": "goiuoiuoiuou",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Igreja Católica do centro da cidade.",
+            "location": "https://www.google.com/maps/place/Igreja+Matriz/@-16.3764749,-39.5881331,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc6b61a0c17:0x47bb93f75790cbb3!8m2!3d-16.3764801!4d-39.585939",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -25,7 +22,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -49,40 +46,37 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 2,
             "name": "Praça da Matriz",
-            "image": "Praça",
-            "category": "",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "image": "praca-matriz.jpeg",
+            "category": "Praça",
+            "description": "Praça onde fica localizada a Igreja Matriz",
+            "location": "https://www.google.com/maps/place/Praça+Da+Igreja+Matriz/@-16.3762311,-39.5859743,19z/data=!4m5!3m4!1s0x7366dc1336e2535:0x6a55618ed1464362!8m2!3d-16.3763042!4d-39.5862635",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -102,40 +96,37 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 3,
             "name": "Praça da Bandeira",
-            "image": "",
+            "image": "praca-bandeira.jpg",
             "category": "Praça",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Praça da Bandeira pertence ao bairro Centro na cidade de Eunápolis, Bahia.",
+            "location": "https://www.google.com/maps/place/Praça+da+Bandeira/@-16.3751038,-39.5902979,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc7162e45d3:0xa9e2a5d365c3acbc!8m2!3d-16.375109!4d-39.5881038",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -155,28 +146,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 4,
             "name": "Atacadão Carrefour",
-            "image": "",
+            "image": "atacadao-carrefour.jpg",
             "category": "Mercado",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Lugar de comprar barato!",
+            "location": "https://www.google.com/maps/place/Atacadão/@-16.3709722,-39.5648695,17z/data=!3m1!4b1!4m5!3m4!1s0x7366e7c3f99eed1:0x1c0f53abd9a7368e!8m2!3d-16.3709774!4d-39.5626754",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -184,7 +172,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -208,28 +196,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 5,
-            "name": "Mineirão Atacado",
-            "image": "",
+            "name": "Mineirão Atacarejo",
+            "image": "atacado-mineirao.jpg",
             "category": "Mercado",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Para o pequeno, médio ou grande comerciante ou pra você dona de casa.",
+            "location": "https://www.google.com/maps/place/Mineirão+Atacarejo+-+Eunápolis/@-16.3725174,-39.5814258,17z/data=!3m1!4b1!4m5!3m4!1s0x7366d565b4b05d7:0x44a7501571d5dcaf!8m2!3d-16.3725533!4d-39.5792239",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -261,40 +246,37 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 6,
             "name": "Praça do Pequi",
-            "image": "",
+            "image": "praca-pequi.jpeg",
             "category": "Praça",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Praça do bairro Pequi, totalmente reestruturada",
+            "location": "https://www.google.com/maps/place/Praça+do+Pequi/@-16.3715143,-39.580104,17z/data=!3m1!4b1!4m5!3m4!1s0x7366d14f042a2ff:0xf21c542825e484e6!8m2!3d-16.3715195!4d-39.5779099",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -314,28 +296,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 7,
             "name": "Atacadão Rondelli",
-            "image": "",
+            "image": "atacado-rondelli.jpg",
             "category": "Mercado",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Rondelli Supermercados - Qualidade e preço justo!",
+            "location": "https://www.google.com/maps/place/Atacado+Rondelli+-+Eunápolis%2FBA+-+BR+367/@-16.3724676,-39.565273,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dd15b4928bf:0x8b38e2ce0bae41a5!8m2!3d-16.3724704!4d-39.5630786",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -343,7 +322,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -367,28 +346,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 8,
             "name": "SAC",
-            "image": "",
+            "image": "sac-eunapolis.jpg",
             "category": "Outros",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Repartição pública em Eunápolis",
+            "location": "https://www.google.com/maps/place/SAC+-+Serviço+de+Atendimento+ao+Cidadão/@-16.3741278,-39.5898447,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc7073b8ff3:0x1abfe9575680b24e!8m2!3d-16.3741122!4d-39.5876866",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -396,11 +372,11 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -420,28 +396,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 9,
-            "name": "Hot Chopeiria",
-            "image": "",
+            "name": "Hot Choperia",
+            "image": "hot-chopeiria.jpg",
             "category": "Lazer",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Choperia, PUB e Balada.",
+            "location": "https://www.google.com/maps/place/Hot+Choperia/@-16.3683904,-39.5907841,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc9c80436a1:0x1905d8a28df95a4c!8m2!3d-16.3683956!4d-39.58859",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -449,11 +422,11 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -473,28 +446,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 10,
             "name": "Estádio Araújão",
-            "image": "",
+            "image": "estadio-araujao.jpg",
             "category": "Outros",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "O Estádio José Araújo Santana, localiza-se no município baiano de Eunápolis e possui capacidade para 3.000 espectadores.",
+            "location": "https://www.google.com/maps/place/Estadio+Araujão/@-16.3614148,-39.5958396,17z/data=!3m1!4b1!4m5!3m4!1s0x7366db4c82e55e9:0xa1e6438b874511f1!8m2!3d-16.36142!4d-39.5936455",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -502,7 +472,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -526,28 +496,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 11,
-            "name": "AABB",
-            "image": "",
+            "name": "AABB Eunápolis",
+            "image": "aabb.jpg",
             "category": "Lazer",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Associação Atlética do Banco do Brasil de Eunápolis.",
+            "location": "https://www.google.com/maps/place/AABB+Eunápolis/@-16.3855229,-39.5907005,17z/data=!3m1!4b1!4m5!3m4!1s0x7366df2ccc43531:0xea4402bf360bf1f2!8m2!3d-16.3855281!4d-39.5885064",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -555,7 +522,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -579,28 +546,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 12,
             "name": "Casa Trancoso",
-            "image": "",
+            "image": "casa-trancoso.jpg",
             "category": "Lazer",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Casa Trancoso Eventos. Festas, Reuniões e Ensaio Fotográfico Em Eunápolis-Ba, estrutura completa!",
+            "location": "https://www.google.com/maps/place/Casa+Trancoso+Eventos/@-16.372479,-39.603972,17z/data=!3m1!4b1!4m5!3m4!1s0x7366d30bc011ce3:0x47eea8ab431e403f!8m2!3d-16.3724935!4d-39.6017435",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -608,7 +572,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -632,28 +596,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 13,
             "name": "Pizzaria America",
-            "image": "",
-            "category": "",
-            "description": "Restaurante",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "image": "pizzaria-america.jpg",
+            "category": "Restaurante  ",
+            "description": "Pizzaria tradicional eunapolitana, agora em novo endereço .",
+            "location": "https://www.google.com/maps/place/Pizzaria+America/@-16.3735158,-39.5788898,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dd6044b42c5:0x47fd49af3877a4c6!8m2!3d-16.373521!4d-39.5766957",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -661,11 +622,11 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 6,
@@ -685,28 +646,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 14,
             "name": "Caixa Econômica",
-            "image": "",
+            "image": "caixa-economica.jpg",
             "category": "Outros",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "CAIXA ECONOMICA FEDERAL tem como foco o segmento de Bancos em Eunápolis.",
+            "location": "https://www.google.com/maps/place/Caixa+Econômica+Federal/@-16.3747356,-39.5874382,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc623feb33f:0xdb2fde5a18111547!8m2!3d-16.374743!4d-39.5852532",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -714,7 +672,7 @@
                 },
                 {
                     "item": 4,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 5,
@@ -738,28 +696,25 @@
                 },
                 {
                     "item": 10,
-                    "status": true
+                    "status": false
                 }
             ]
         },
         {
             "id": 15,
             "name": "Cambuí Supermercados",
-            "image": "",
+            "image": "cambui-supermercados.jpg",
             "category": "Mercado",
-            "description": "",
-            "location": {
-                "lat": "01234",
-                "lng": "d"
-            },
+            "description": "Conta com um serviço de entrega que atende toda a cidade de Eunápolis.",
+            "location": "https://www.google.com/maps/place/Caixa+Econômica+Federal/@-16.3747356,-39.5874382,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dc623feb33f:0xdb2fde5a18111547!8m2!3d-16.374743!4d-39.5852532",
             "facilities": [
                 {
                     "item": 1,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 2,
-                    "status": true
+                    "status": false
                 },
                 {
                     "item": 3,
@@ -791,7 +746,257 @@
                 },
                 {
                     "item": 10,
+                    "status": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Hospital Regional",
+            "image": "hospital-regional.jpg",
+            "category": "Outros",
+            "description": "Hospital Regional de Eunápolis, refencia em saúde na região.",
+            "location": "https://www.google.com/maps/place/Hospital+Regional+de+Eunápolis/@-16.3713949,-39.5768217,17z/data=!3m1!4b1!4m5!3m4!1s0x7366dd1310d78e3:0x8095dfc35940078!8m2!3d-16.3714001!4d-39.5746276",
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": false
+                },
+                {
+                    "item": 2,
+                    "status": false
+                },
+                {
+                    "item": 3,
                     "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Praça da Integração",
+            "image": "integracao.jpeg",
+            "category": "Praça",
+            "description": "Tem uma área com mais de 4mil m² e conta com biblioteca, sala de informática, pista de skate, além de um novo CRAS.",
+            "location": "https://www.google.com/maps/search/praça+da+integração+eunapolis/@-16.356285,-39.5941894,21z",
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": false
+                },
+                {
+                    "item": 2,
+                    "status": false
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": false
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Complexão Itamarzão",
+            "image": "itamarzao.jpeg",
+            "category": "Lazer",
+            "description": "O Itamarzão é o único espaço público de esporte da região, a possuir campo society com gramado sintético de grande dimensão.",
+            "location": "https://www.google.com/maps/place/Estádio+Itamar+Seixas+-+Itamarzão/@-16.3794067,-39.5877451,21z/data=!4m13!1m7!3m6!1s0x0:0x8611bdd47c2e7edc!2s59M2JCC6%2B7V!3b1!8m2!3d-16.3793125!4d-39.5878125!3m4!1s0x7366d767f566b01:0xacae558410b0ca89!8m2!3d-16.3793371!4d-39.587752",
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": false
+                },
+                {
+                    "item": 2,
+                    "status": false
+                },
+                {
+                    "item": 3,
+                    "status": false
+                },
+                {
+                    "item": 4,
+                    "status": false
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Parque Ecologico",
+            "image": "parque-ecologico.jpg",
+            "category": "Parque",
+            "description": "Tem uma diversidade de flora e fauna, que constitui uma das poucas áreas verdes, aberta à visitação no município.",
+            "location": "https://www.google.com/maps/place/Parque+Ecológico+Gravatá/@-16.3697293,-39.5967648,17z/data=!3m1!4b1!4m5!3m4!1s0x7366db7512e3941:0x7824154580266f15!8m2!3d-16.3697345!4d-39.5945707",
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": false
+                },
+                {
+                    "item": 2,
+                    "status": false
+                },
+                {
+                    "item": 3,
+                    "status": false
+                },
+                {
+                    "item": 4,
+                    "status": false
+                },
+                {
+                    "item": 5,
+                    "status": false
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Policlínica Regional",
+            "image": "policlinica.jpg",
+            "category": "Outros",
+            "description": "A Policlínica Regional de Saúde tem área construída de 2,8 mil metros quadrados e atende em diversas especialidades.",
+            "location": "https://www.google.com/maps/search/policlinica+eunapolis/@-16.3725161,-39.5610971,16z",
+            "facilities": [
+                {
+                    "item": 1,
+                    "status": false
+                },
+                {
+                    "item": 2,
+                    "status": false
+                },
+                {
+                    "item": 3,
+                    "status": true
+                },
+                {
+                    "item": 4,
+                    "status": true
+                },
+                {
+                    "item": 5,
+                    "status": true
+                },
+                {
+                    "item": 6,
+                    "status": true
+                },
+                {
+                    "item": 7,
+                    "status": true
+                },
+                {
+                    "item": 8,
+                    "status": true
+                },
+                {
+                    "item": 9,
+                    "status": true
+                },
+                {
+                    "item": 10,
+                    "status": false
                 }
             ]
         }
