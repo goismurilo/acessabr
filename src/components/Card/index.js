@@ -13,11 +13,11 @@ import iconRampa from '../../images/icon-rampa.png';
 import './styles.scss';
 
 const Card = ({ item }) => {
-    const imagePath = require('../../images' + item.image);
+    const imagePath = require('../../images/places/' + item.image);
     return (
         <div className="card__container">
             <div className="card__image">
-                <image src={imagePath.default} alt={item.name} title={item.name} />
+                <img src={imagePath.default} alt={item.name} title={item.name} />
             </div>
             <div className="card__content">
                 <h3>{item.name}</h3>
@@ -56,10 +56,10 @@ const Card = ({ item }) => {
                     </li>
                 </ul>
                 <p>{item.description}</p>
-                <a href={item.link}
+                <a href={item.location}
                     target="_blank"
                     rel="noreferrer"
-                    className="card__button button">Como chegar</a>
+                    className="card__button">Como chegar</a>
             </div>
         </div>
     );

@@ -13,13 +13,13 @@ const Places = () => {
                 <h2 className="places__title">
                     {filteredPlace ? filteredPlace + ' ' : 'Locais'}
                     <span>Acessíveis</span></h2>
-                <div className="places__select">
+                {/* <div className="places__select">
                     <h5>Ordernar por:</h5>
                     <select>
                         <option>distância</option>
                         <option>alfabeto</option>
                     </select>
-                </div>
+                </div> */}
             </div>
             <div className="places__content" >
                 <Slider />

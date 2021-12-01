@@ -12,6 +12,11 @@
         height: 222px;
         overflow: hidden;
         width: 100%;
+
+        img {
+            height: 100%;
+            width: auto;
+        }
     }
 
     &__content {
@@ -22,6 +27,8 @@
             font-size: 2.4rem;
             line-height: 2.8rem;
             color: var(--black);
+            height: 6rem;
+
         }
 
         p {
@@ -51,10 +58,16 @@
             }
         }
     }
-
     &__button {
         display: inline-block;
         margin: 2rem auto 0;
         text-decoration: none; 
+        background-color: var(--green);
+        color: var(--white);
+        border-radius: .5rem;
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
+        padding: 1rem;
+        align-self: flex-end;
     }
+
 }

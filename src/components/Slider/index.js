@@ -18,12 +18,12 @@ function Slider() {
     useEffect(() => {
         console.log("result");
         const fetchPlaces = async () => {
-            const result = await api.get(`/places?category_like=${filteredPlace ? filteredPlace : ''}`);
+            const result = await api.get(`?category_like=${filteredPlace ? filteredPlace : ''}`);
 
             console.log(result);
 
             if (result.status === 200) {
-                setPlaces(result.data);
+                setPlaces(result.data.places);
             }
         }
 
@@ -31,13 +31,16 @@ function Slider() {
     }, [filteredPlace]);
 
     return (
-        <Swiper slidesPerView={places.length > 1 ? 1 : places.length}
+        <Swiper
             breakpoints={{
+                300: {
+                    slidesPerView: 1
+                },
                 767: {
-                    slidesPerView: places.length > 2 ? 2 : places.length
+                    slidesPerView: 2
                 },
                 1024: {
-                    slidesPerView: places.length > 4 ? 4 : places.length
+                    slidesPerView: 4
                 }
             }}
         >
