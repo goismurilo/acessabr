@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/39069727/144269075-9193675f-2569-42f9-9f2b-ed2950cdceeb.png)
 
 <h4 align="center"> 
-	✔  Ifbex-project v0.2.0 🚀 Done! ✔
+	✔  AcessaBR v0.2.0 🚀 Done! ✔
 </h4>
 
 ## 🗺 Sobre o projeto
